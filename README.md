@@ -6,7 +6,7 @@
 
 # Central Bank Digital Currency
 
-🏦 (CBDC Tracker)(https://www.atlanticcouncil.org/cbdctracker/) - Atlantic Council 
+🏦 [CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/) - Atlantic Council 
 
 ### Venezuela 
 
