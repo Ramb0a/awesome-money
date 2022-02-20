@@ -21,6 +21,7 @@
   * Phase III [Paper](https://github.com/Ramb0a/awesome-money/blob/main/SecuritiesSettlementUsingDistributedLedgerTechnologyPhaseIII.pdf) | [Video](https://www.youtube.com/watch?v=2rdTo2vHP1k) 
      * Worked with Accenture 
      * Don't see benefits - will need to reimagine the entire financial system to see reduced costs 
+ * Phase IV [Cross Boarder Design Paper](https://github.com/Ramb0a/awesome-money/blob/main/JasperUbinDesignPaperEnablingCross-BorderHighValueTransferUsingDistributedLedgerTechnologies.pdf) | [Cross Boarder Settlement Opportunities Paper](https://github.com/Ramb0a/awesome-money/blob/main/CrossBorderInterbankPaymentsSettlementsOpportunitiesDigitalTransformation.pdf)
 
 ### Venezuela 
 
