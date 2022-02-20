@@ -10,8 +10,8 @@
 
 ### Canada 
 
-🏦 [Bank of Canada](https://www.bankofcanada.ca/research/digital-currencies-and-fintech/projects/)
-  * [Project Jasper Primer](https://github.com/Ramb0a/awesome-money/blob/main/project_jasper_primer.pdf) 
+🏦 [Bank of Canada](https://www.bankofcanada.ca/research/digital-currencies-and-fintech/projects/) 
+  * [Project Jasper Primer](https://github.com/Ramb0a/awesome-money/blob/main/project_jasper_primer.pdf) - Digital Ledger Tecnology (DLT) based payment system
   * [Project Japser Phase II Distributed Ledger Video - 2017](https://youtu.be/8wVvqnOFCf8) - Payments Canada - 
      * Phase 1 used Ethereum, "didn't quite fit"   
      * Phase 2 used [Corda](https://www.corda.net/) 
