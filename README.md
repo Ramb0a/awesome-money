@@ -17,6 +17,7 @@
   * [Project Japser Phase II Distributed Ledger Video - 2017](https://youtu.be/8wVvqnOFCf8) Payments Canada 
      * Phase 1 used Ethereum, "didn't quite fit"   
      * Phase 2 used [Corda](https://www.corda.net/) 
+     * Bank of Canada does not see DLT as a standalone answer but as a member in a consortium of FMI (example - connecting to other DLT) 
 
 ### Venezuela 
 
