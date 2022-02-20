@@ -12,6 +12,7 @@
 
 🏦 [Bank of Canada](https://www.bankofcanada.ca/research/digital-currencies-and-fintech/projects/)
   * [Project Jasper Primer](https://github.com/Ramb0a/awesome-money/blob/main/project_jasper_primer.pdf) 
+  * [Project Japser Phase II Distributed Ledger Video](https://youtu.be/8wVvqnOFCf8) - Payments Canada 
 
 ### Venezuela 
 
