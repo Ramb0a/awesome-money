@@ -12,7 +12,7 @@
 
 ### Canada 
 
-🏦 [Bank of Canada](https://www.bankofcanada.ca/research/digital-currencies-and-fintech/projects/) - Contingency [Plan](for a CBDC](https://github.com/Ramb0a/awesome-money/blob/main/ContingencyPlanningforaCentralBankDigitalCurrencyBankofCanada.pdf)
+🏦 [Bank of Canada](https://www.bankofcanada.ca/research/digital-currencies-and-fintech/projects/) - Contingency [Plan](https://github.com/Ramb0a/awesome-money/blob/main/ContingencyPlanningforaCentralBankDigitalCurrencyBankofCanada.pdf) for a CBDC
   * [Project Jasper Primer](https://github.com/Ramb0a/awesome-money/blob/main/project_jasper_primer.pdf) - Digital Ledger Tecnology (DLT) based payment system
   * Phase II [Paper](https://github.com/Ramb0a/awesome-money/blob/main/ProjectJasperACanadianExperimentwithDistributed%20LedgerTechnologyPhaseII.pdf) | [Video](https://youtu.be/8wVvqnOFCf8) 
      * Phase 1 used Ethereum, "didn't quite fit"   
