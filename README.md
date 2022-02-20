@@ -18,7 +18,8 @@
      * Phase 1 used Ethereum, "didn't quite fit"   
      * Phase 2 used [Corda](https://www.corda.net/) 
      * Bank of Canada does not see DLT as standalone but member in consortium of FMI (ex. - connecting to other DLT) 
-  * Phase III [Video](https://www.youtube.com/watch?v=2rdTo2vHP1k) 
+  * Phase III [Paper](https://github.com/Ramb0a/awesome-money/blob/main/SecuritiesSettlementUsingDistributedLedgerTechnologyPhaseIII.pdf) | [Video](https://www.youtube.com/watch?v=2rdTo2vHP1k) 
+     * Worked with Accenture  
 
 ### Venezuela 
 
