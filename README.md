@@ -16,7 +16,7 @@
 
 [CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/) - Atlantic Council 
 
-### [Bank for International Settlements](https://www.bis.org/) (BIS)
+### Bank for International Settlements [(BIS)](https://www.bis.org/)
 
 ### Canada 
 
