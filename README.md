@@ -29,7 +29,7 @@
 
 ### U.S.A 
 
-[Fed](https://www.federalreserve.gov/central-bank-digital-currency.htm)
+🏦 [Fed](https://www.federalreserve.gov/central-bank-digital-currency.htm)
   * [Payments Paper](https://github.com/Ramb0a/awesome-money/blob/main/MoneyandPaymentsTheUSDollarintheAgeofDigitalTransformation.pdf)
   * [What Is Programmable Money Paper](https://github.com/Ramb0a/awesome-money/blob/main/WhatisprogrammablemoneyFed.pdf)
 
