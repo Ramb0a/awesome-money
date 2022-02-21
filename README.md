@@ -8,6 +8,8 @@
 
 [Smart Contracts](https://github.com/Ramb0a/awesome-money/blob/main/Smart%20Contracts.pdf) - Nicolas Szabo
 
+[Ethereum White Paper](https://ethereum.org/en/whitepaper/)
+
 ## Central Bank Digital Currency
 
 [CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/) - Atlantic Council 
