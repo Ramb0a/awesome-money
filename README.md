@@ -2,6 +2,8 @@
 
 [Principles for Financial Market Infrastructures](https://github.com/Ramb0a/awesome-money/blob/main/pfmi.pdf) 
 
+[2021 Mckinsey Global Payments Report](https://github.com/Ramb0a/awesome-money/blob/main/2021-mckinsey-global-payments-report.pdf)
+
 ## CryptoCurrency
 
 [BitCoin Paper](https://bitcoin.org/bitcoin.pdf)
