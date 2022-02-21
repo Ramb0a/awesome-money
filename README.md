@@ -16,6 +16,8 @@
 
 [CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/) - Atlantic Council 
 
+### [Bank for International Settlements](https://www.bis.org/) (BIS)
+
 ### Canada 
 
 🏦 [Bank of Canada](https://www.bankofcanada.ca/research/digital-currencies-and-fintech/projects/) - Contingency [Plan](https://github.com/Ramb0a/awesome-money/blob/main/ContingencyPlanningforaCentralBankDigitalCurrencyBankofCanada.pdf) for a CBDC
