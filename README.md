@@ -23,6 +23,11 @@
      * Don't see benefits - will need to reimagine the entire financial system to see reduced costs 
  * Phase IV [Cross Boarder Design Paper](https://github.com/Ramb0a/awesome-money/blob/main/JasperUbinDesignPaperEnablingCross-BorderHighValueTransferUsingDistributedLedgerTechnologies.pdf) | [Cross Boarder Settlement Opportunities Paper](https://github.com/Ramb0a/awesome-money/blob/main/CrossBorderInterbankPaymentsSettlementsOpportunitiesDigitalTransformation.pdf)
 
+### U.S.A 
+
+[Fed](https://www.federalreserve.gov/central-bank-digital-currency.htm)
+  * [Payments Paper](https://github.com/Ramb0a/awesome-money/blob/main/MoneyandPaymentsTheUSDollarintheAgeofDigitalTransformation.pdf)
+
 ### Venezuela 
 
 [Petro](https://www.investopedia.com/terms/p/petro-cryptocurrency.asp)
