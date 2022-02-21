@@ -2,9 +2,11 @@
 
 [Principles for Financial Market Infrastructures](https://github.com/Ramb0a/awesome-money/blob/main/pfmi.pdf) 
 
-## Fiat 
-
 ## CryptoCurrency
+
+[BitCoin Paper](https://bitcoin.org/bitcoin.pdf)
+
+[Smart Contracts](https://github.com/Ramb0a/awesome-money/blob/main/Smart%20Contracts.pdf) - Nicolas Szabo
 
 ## Central Bank Digital Currency
 
