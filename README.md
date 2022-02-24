@@ -1,9 +1,5 @@
 # Awesome Money ![image](https://user-images.githubusercontent.com/64801585/154845336-9f57183a-e842-4028-8a53-4a417d284ad4.png)
 
-[Principles for Financial Market Infrastructures](https://github.com/Ramb0a/awesome-money/blob/main/pfmi.pdf) 
-
-[2021 Mckinsey Global Payments Report](https://github.com/Ramb0a/awesome-money/blob/main/2021-mckinsey-global-payments-report.pdf)
-
 ## CryptoCurrency
 
 [BitCoin Paper](https://bitcoin.org/bitcoin.pdf)
@@ -42,6 +38,13 @@
 [Petro](https://www.investopedia.com/terms/p/petro-cryptocurrency.asp)
 
 [Digital Bolivar](https://decrypt.co/77769/venezuela-will-launch-digital-bolivar-october)
+
+
+## Links of Interest
+
+[Principles for Financial Market Infrastructures](https://github.com/Ramb0a/awesome-money/blob/main/pfmi.pdf) 
+
+[2021 Mckinsey Global Payments Report](https://github.com/Ramb0a/awesome-money/blob/main/2021-mckinsey-global-payments-report.pdf)
 
 # The Intelligent Investor
 
