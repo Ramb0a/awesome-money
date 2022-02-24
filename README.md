@@ -50,6 +50,12 @@ The six rules of finance:
 
 ## Quantitative Finance 
 
+[QuantLib](https://www.quantlib.org/)
+  * [PyQL](https://github.com/enthought/pyql) - Cython Python wrapper for QuantLib
+  * [QuantLib Python](https://quantlib-python-docs.readthedocs.io/en/latest/basics.html) 
+
+[TensorFlow Quant Finance](https://github.com/google/tf-quant-finance) Library
+
 
 ## Links of Interest
 
