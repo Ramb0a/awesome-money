@@ -47,4 +47,5 @@
 
 > “An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
 
+* " Never mingle your speculative and investment operations in the same account, nor in any part of your thinking."
 
