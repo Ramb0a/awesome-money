@@ -48,6 +48,8 @@ The six rules of finance:
 
 [Digital Bolivar](https://decrypt.co/77769/venezuela-will-launch-digital-bolivar-october)
 
+## Quantitative Finance 
+
 
 ## Links of Interest
 
