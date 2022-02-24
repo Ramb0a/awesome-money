@@ -48,4 +48,5 @@
 > “An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
 
 * " Never mingle your speculative and investment operations in the same account, nor in any part of your thinking."
+* " stocks do well or poorly in the future because the businesses behind them do well or poorly—nothing more, and nothing less"
 
