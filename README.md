@@ -43,6 +43,8 @@
 
 [Digital Bolivar](https://decrypt.co/77769/venezuela-will-launch-digital-bolivar-october)
 
+# The Intelligent Investor
 
+> “An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”
 
 
