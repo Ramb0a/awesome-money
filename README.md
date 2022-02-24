@@ -53,4 +53,5 @@
 * " Never mingle your speculative and investment operations in the same account, nor in any part of your thinking."
 * " stocks do well or poorly in the future because the businesses behind them do well or poorly—nothing more, and nothing less"
 * “Be sure it’s yours before you go into it."
+* "The rate of return sought should be dependent, rather, on the amount of intelligent effort the investor is willing and able to bring to bear on his task. The minimum return goes to our passive investor, who wants both safety and freedom from concern. The maximum return would be realized by the alert and enterprising investor who exercises maximum intelligence and skill."
 
