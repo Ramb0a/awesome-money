@@ -61,8 +61,8 @@ The six rules of finance:
 **Modern Portfolio Theory** - asset class diversification (don't put all your eggs in one basket) 
 
 Optimal Portfolio to minimize risk and maximize returns = **risk adjusted return** 
-* systematic risk - market risk of investments (example - the risk of investing in the stock market) 
-* unsystematic risk - risks associated with that specific investment 
+* **systematic risk** - market risk of investments (example - the risk of investing in the stock market) 
+* **unsystematic risk** - risks associated with that specific investment 
 
 Minimize systematic risk by splitting portfolio amongst asset classes. 
 
