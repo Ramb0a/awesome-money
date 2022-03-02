@@ -56,6 +56,10 @@ The six rules of finance:
 
 [TensorFlow Quant Finance](https://github.com/google/tf-quant-finance) Library
 
+# Portfolio Management
+
+Modern Portfolio Theory 
+
 
 ## Links of Interest
 
