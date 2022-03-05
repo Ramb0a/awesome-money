@@ -9,10 +9,6 @@ The six rules of finance:
 * Manager and stockholder objectives may differ.
 * Reputation matters.
 
-## Canada Banks
-
-[RBC Bail-In Overview](https://github.com/Ramb0a/awesome-money/blob/main/rbcBailInOverview.pdf)
-
 ## CryptoCurrency
 
 [BitCoin Paper](https://bitcoin.org/bitcoin.pdf)
@@ -69,6 +65,10 @@ Optimal Portfolio to minimize risk and maximize returns = **risk adjusted return
 * **unsystematic risk** - risks associated with that specific investment 
 
 Minimize systematic risk by splitting portfolio amongst asset classes. 
+
+# Bail Ins
+
+[RBC Bail-In Overview](https://github.com/Ramb0a/awesome-money/blob/main/rbcBailInOverview.pdf)
 
 
 ## Links of Interest
