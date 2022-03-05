@@ -72,6 +72,8 @@ Minimize systematic risk by splitting portfolio amongst asset classes.
 
 [RBC Bail-In Overview](https://github.com/Ramb0a/awesome-money/blob/main/rbcBailInOverview.pdf)
 
+[Dejardins Bail-In Disclosure](https://github.com/Ramb0a/awesome-money/blob/main/dejardinsBailInDisclosure.pdf)
+
 
 ## Links of Interest
 
