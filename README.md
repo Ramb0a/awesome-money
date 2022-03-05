@@ -9,6 +9,10 @@ The six rules of finance:
 * Manager and stockholder objectives may differ.
 * Reputation matters.
 
+## Canada Banks
+
+[RBC Bail-In Overview](https://github.com/Ramb0a/awesome-money/blob/main/rbcBailInOverview.pdf)
+
 ## CryptoCurrency
 
 [BitCoin Paper](https://bitcoin.org/bitcoin.pdf)
