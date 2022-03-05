@@ -68,6 +68,8 @@ Minimize systematic risk by splitting portfolio amongst asset classes.
 
 # Bail Ins
 
+[IMF From Bailout To Bail In](https://github.com/Ramb0a/awesome-money/blob/main/fromBailOutToBailInIMF2012.pdf) Paper
+
 [RBC Bail-In Overview](https://github.com/Ramb0a/awesome-money/blob/main/rbcBailInOverview.pdf)
 
 
