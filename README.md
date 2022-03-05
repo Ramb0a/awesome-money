@@ -75,6 +75,7 @@ Minimize systematic risk by splitting portfolio amongst asset classes.
 [Dejardins Bail-In Disclosure](https://github.com/Ramb0a/awesome-money/blob/main/dejardinsBailInDisclosure.pdf)
 
 [What Is A G-SIB?](https://github.com/Ramb0a/awesome-money/blob/main/whatIsAGSIB.pdf) (Global Systematically Important Bank
+  * [CDIC Plan for DSIB](https://github.com/Ramb0a/awesome-money/blob/main/CDICResolutionPlanGuidanceforDSIB.pdf)
 
 
 ## Links of Interest
