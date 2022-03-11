@@ -43,6 +43,8 @@ The six rules of finance:
   * [What Is Programmable Money Paper](https://github.com/Ramb0a/awesome-money/blob/main/WhatisprogrammablemoneyFed.pdf)
   * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://github.com/Ramb0a/awesome-money/blob/main/MoneyandPaymentsTheUSDollarintheAgeofDigitalTransformation.pdf)
 
+[Biden Executive Order For Urgency in Exploring CBDC](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/fact-sheet-president-biden-to-sign-executive-order-on-ensuring-responsible-innovation-in-digital-assets/)
+
 ### Venezuela 
 
 [Petro](https://www.investopedia.com/terms/p/petro-cryptocurrency.asp)
