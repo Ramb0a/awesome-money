@@ -41,6 +41,7 @@ The six rules of finance:
 🏦 [Fed](https://www.federalreserve.gov/central-bank-digital-currency.htm)
   * [Payments Paper](https://github.com/Ramb0a/awesome-money/blob/main/MoneyandPaymentsTheUSDollarintheAgeofDigitalTransformation.pdf)
   * [What Is Programmable Money Paper](https://github.com/Ramb0a/awesome-money/blob/main/WhatisprogrammablemoneyFed.pdf)
+  * [Money and Payments: The U.S. Dollar in the Age of Digital Transformation](https://github.com/Ramb0a/awesome-money/blob/main/MoneyandPaymentsTheUSDollarintheAgeofDigitalTransformation.pdf)
 
 ### Venezuela 
 
