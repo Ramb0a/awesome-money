@@ -1,13 +1,6 @@
 # Awesome Money ![image](https://user-images.githubusercontent.com/64801585/154845336-9f57183a-e842-4028-8a53-4a417d284ad4.png)
 
-The six rules of finance: 
-
-* Money has a time value.
-* Higher returns are expected for taking on more risk.
-* Diversification of investments can reduce risk.
-* Financial markets are efficient in pricing securities.
-* Manager and stockholder objectives may differ.
-* Reputation matters.
+[Net Zero Banking Alliance](https://www.unepfi.org/net-zero-banking/) - U.N. 
 
 ## CryptoCurrency
 
